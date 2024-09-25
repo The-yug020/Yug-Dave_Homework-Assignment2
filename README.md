@@ -8,6 +8,8 @@ Model and Age (e.g., all cars of a given model that are older than a specified n
 Year and Price (e.g., all cars manufactured in a specific year with a price above a specified amount).
 And save in a file.
 
+Run the src --> car --> CarFiles.java as Java Application
+
 Output:
 Select an option:
 1: Save cars by make
