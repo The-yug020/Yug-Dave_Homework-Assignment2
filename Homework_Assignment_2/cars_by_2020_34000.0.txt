@@ -1,0 +1,1 @@
+Car{id=2, make='Audi', model='A4', year=2020, color='White', price=36000.00, registration='AUD456'}
